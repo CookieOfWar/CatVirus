@@ -6,7 +6,6 @@ export default defineConfig({
       input: {
         main: "index.html",
         page: "fuck.html",
-        nested: "music.mp3",
       },
     },
   },
